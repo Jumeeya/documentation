@@ -3,7 +3,7 @@ slug: "/terms"
 date: 2019-05-04
 title: "Privacy Policy"
 ---
-## **Privacy Policy (The rights of Users)**
+## **Ahmed  - Privacy Policy (The rights of Users)**
 
 Users may exercise certain rights regarding their Data processed by the Owner.
 
